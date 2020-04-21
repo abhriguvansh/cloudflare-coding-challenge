@@ -1,0 +1,4 @@
+name = "cloudflare-challenge"
+type = "javascript"
+account_id = "71796a9f653aa6b559ff5ef57727ca33"
+workers_dev = true
